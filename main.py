@@ -175,8 +175,8 @@ if __name__ == '__main__':
     st.set_page_config(page_title="🦙💬 Llama 2 Chatbot")
 
     # Please replace by your Replicate api token since mine is expired :((((
-    os.environ['REPLICATE_API_TOKEN'] = "r8_IETATWViWcxkDlv91TVHc12KmcyFxWw39PAWQ"
-    replicate_api = "r8_IETATWViWcxkDlv91TVHc12KmcyFxWw39PAWQ"
+    os.environ['REPLICATE_API_TOKEN'] = "r8_***********************************"
+    replicate_api = "r8_***********************************"
 
     # Replicate Credentials
     with st.sidebar:
