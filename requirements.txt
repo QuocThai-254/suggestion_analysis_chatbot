@@ -1,0 +1,15 @@
+pypdf
+langchain==0.1.19
+torch==2.3.0
+accelerate==0.30.0
+bitsandbytes
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+replicate
+streamlit
+langchain_experimental
+transformers
+python-csv
